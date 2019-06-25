@@ -1,0 +1,21 @@
+{
+  "name": "the-last-dance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "prettier": "prettier --trailing-comma es5 --no-semi --single-quote --write \"**/*.js\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "p5": "^0.6.0",
+    "lodash": ">=4.17.13"
+  },
+  "devDependencies": {
+    "prettier": "^1.13.5"
+  }
+}

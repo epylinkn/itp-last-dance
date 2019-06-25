@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/RobotoMono.ttf");
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 885px;
+  background-color: black;
+}
+
+p {
+  font-family: 'Permanent Marker', sans-serif;
+}
